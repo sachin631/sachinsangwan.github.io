@@ -61,8 +61,8 @@ li:hover{
     width:84rem;
     height:48rem;
     /* margin:auto 0 auto 50px; */
-    background-image:url('backimage.JPG');
-    background-repeat: no-repeat;
+    background-image:url("backimage.jpg");
+    background-repeat:repeat;
 }
 .content_div{
     width:42rem;
