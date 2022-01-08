@@ -67,14 +67,14 @@ li:hover{
 .content_div{
     width:42rem;
     height:20rem;
-/*     color: white; */
+    color: white;
     font-size: xx-large;
     margin: -28.93rem auto auto 1.87rem;
     font-family:'Spline Sans', sans-serif;
     /* background-color: aqua; */
     font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Spline Sans', sans-serif;
-    background-image:url("backimage.jpg");
+/*     background-image:url("backimage.jpg"); */
     background-repeat: no-repeat;
 }
 #web_developer{
